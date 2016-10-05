@@ -1,2 +1,4 @@
 # TestBuilder
-Program generate txt file to quiz moodle
+
+The program is to generate a text file of questions to import into Moodle
+Author: Vladimir Zelensky teacher
